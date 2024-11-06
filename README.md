@@ -1,14 +1,14 @@
-## HoolyChat: Your Instant Chat Companion
+## HoolyChat: Connect with People from Around the World
 
-**Connect with People from Around the World**
 
-HoolyChat is a simple yet powerful Telegram bot that connects you with interesting people for engaging conversations. With just a few taps, you can start chatting with someone new and exciting.
+
+HoolyChat is a simple yet powerful Telegram bot that connects you with interesting people for engaging conversations. With just a few taps, you can start chatting with someone new and exciting from a different part of world.
 
 **Key Features:**
 
 * **Instant Matching:** Get paired with a new chat partner instantly.
 * **Easy to Use:** Simple commands to start, stop, and find new chats.
-* **Safe and Friendly:** A welcoming environment for all users.
+* **Safe and Friendly:** A welcoming environment for all users *(for security we don't allow forwarding any kind of media except text)*.
 
 **How to Use:**
 
