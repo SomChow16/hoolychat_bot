@@ -11,8 +11,11 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-# Replace with your actual API token (never share this publicly)
-TOKEN = '6897209415:AAHLzByhtWg6Oz9ssjvj7mFbYzNC7f4h1ms'
+import json
+
+with open('token.json') as config_file:
+    config = json.load(config_file)
+    TOKEN = config['bot_token']
 
 # User state variable
 user_in_chat = {}  # Dictionary to track user chat status (True/False) and partner ID
