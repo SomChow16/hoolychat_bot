@@ -4,8 +4,6 @@ import random
 from telegram import Update
 from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler, MessageHandler, filters , JobQueue
 
-#test message
-
 # Set logging level
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
